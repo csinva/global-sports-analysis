@@ -1,0 +1,212 @@
+#	Team	Points		Change
+1	Belgium	1746.00		-
+2	France	1718.00		-
+3	Brazil	1681.00		-
+4	England	1652.00		-
+5	Portugal	1631.00		-
+6	Croatia	1625.00		-
+7	Spain	1617.00		-
+8	Uruguay	1615.00		-
+9	Switzerland	1605.00		-
+10	Denmark	1589.00		-
+11	Germany	1582.00		-
+12	Argentina	1582.00		-
+13	Colombia	1580.00		-
+14	Italy	1569.00		-
+15	Netherlands	1569.00		-
+16	Chile	1561.00		-
+17	Sweden	1558.00		-
+18	Mexico	1557.00		-
+19	Poland	1550.00		-
+20	Iran	1518.00		-
+21	Peru	1516.00		-
+22	Senegal	1515.00		-
+23	Wales	1514.00		-
+24	Ukraine	1513.00		-
+25	Tunisia	1501.00		-
+26	Austria	1498.00		-
+27	Romania	1497.00		-
+28	Northern Ireland	1496.00		-
+29	Japan	1496.00		-
+30	United States	1495.00		-
+31	Slovakia	1491.00		-
+32	Republic of Ireland	1489.00		-
+33	Venezuela	1485.00		-
+34	Serbia	1477.00		-
+35	Iceland	1473.00		-
+36	Paraguay	1468.00		-
+37	Korea Republic	1467.00		-
+38	Turkey	1467.00		-
+39	Costa Rica	1453.00		-
+40	Bosnia-Herzegovina	1453.00		-
+41	Czech Republic	1448.00		-
+42	Hungary	1442.00		-
+43	Australia	1436.00		-
+44	Russia	1436.00		-
+45	Scotland	1433.00		-
+46	Nigeria	1433.00		-
+47	Morocco	1429.00		-
+48	Norway	1429.00		-
+49	Congo DR	1424.00		-
+50	Ghana	1423.00		-
+51	Cameroon	1404.00		-
+52	Greece	1403.00		-
+53	Montenegro	1401.00		-
+54	Jamaica	1397.00		-
+55	Qatar	1396.00		-
+56	Finland	1394.00		-
+57	Bulgaria	1388.00		-
+58	Egypt	1384.00		-
+59	Burkina Faso	1381.00		-
+60	Ecuador	1375.00		-
+61	Honduras	1368.00		-
+62	Bolivia	1365.00		-
+63	Mali	1365.00		-
+64	Côte d'Ivoire	1365.00		-
+65	Slovenia	1363.00		-
+66	Albania	1362.00		-
+67	UAE	1360.00		-
+68	Algeria	1346.00		-
+69	El Salvador	1342.00		-
+70	Saudi Arabia	1342.00		-
+71	Guinea	1336.00		-
+72	South Africa	1335.00		-
+73	China PR	1333.00		-
+74	North Macedonia	1333.00		-
+75	Panama	1322.00		-
+76	Cape Verde Islands	1319.00		-
+77	Iraq	1315.00		-
+78	Canada	1314.00		-
+79	Curaçao	1302.00		-
+80	Uganda	1299.00		-
+81	Zambia	1298.00		-
+82	Israel	1286.00		-
+83	Belarus	1286.00		-
+84	Uzbekistan	1286.00		-
+85	Syria	1278.00		-
+86	Oman	1277.00		-
+87	Lebanon	1277.00		-
+88	Benin	1273.00		-
+89	Gabon	1272.00		-
+90	Congo	1265.00		-
+91	Luxembourg	1265.00		-
+92	Trinidad and Tobago	1260.00		-
+93	Cyprus	1258.00		-
+94	Georgia	1255.00		-
+95	Kyrgyzstan	1252.00		-
+96	Vietnam	1232.00		-
+97	Armenia	1230.00		-
+98	Jordan	1229.00		-
+99	Estonia	1228.00		-
+100	Palestine	1224.00		-
+101	India	1219.00		-
+102	Haiti	1219.00		-
+103	Mauritania	1210.00		-
+104	Niger	1209.00		-
+105	Kenya	1207.00		-
+106	Libya	1207.00		-
+107	Faroe Islands	1200.00		-
+108	Madagascar	1198.00		-
+109	Zimbabwe	1192.00		-
+110	Bahrain	1188.00		-
+111	Azerbaijan	1188.00		-
+112	Central African Republic	1184.00		-
+113	Namibia	1182.00		-
+114	Kazakhstan	1174.00		-
+115	Sierra Leone	1172.00		-
+116	Thailand	1165.00		-
+117	Mozambique	1163.00		-
+118	Guinea-Bissau	1158.00		-
+119	New Zealand	1157.00		-
+120	Tajikistan	1151.00		-
+121	Kosovo	1149.00		-
+122	Korea DPR	1148.00		-
+123	Angola	1142.00		-
+124	Antigua and Barbuda	1136.00		-
+125	Chinese Taipei	1132.00		-
+126	Philippines	1131.00		-
+127	Malawi	1131.00		-
+128	Togo	1127.00		-
+129	Nicaragua	1118.00		-
+130	Sudan	1106.00		-
+131	Tanzania	1105.00		-
+132	Lithuania	1101.00		-
+133	St. Kitts and Nevis	1096.00		-
+134	Burundi	1092.00		-
+135	Turkmenistan	1091.00		-
+136	Rwanda	1088.00		-
+137	Latvia	1086.00		-
+138	Myanmar	1084.00		-
+139	Andorra	1082.00		-
+140	Solomon Islands	1077.00		-
+141	Equatorial Guinea	1074.00		-
+142	Hong Kong	1074.00		-
+143	Eswatini	1074.00		-
+144	Yemen	1073.00		-
+145	Lesotho	1072.00		-
+146	Guatemala	1072.00		-
+147	Botswana	1069.00		-
+148	Comoros	1068.00		-
+149	Afghanistan	1058.00		-
+150	Ethiopia	1049.00		-
+151	Maldives	1046.00		-
+152	Suriname	1045.00		-
+153	Liberia	1044.00		-
+154	Dominican Republic	1028.00		-
+155	New Caledonia	1026.00		-
+156	Kuwait	1022.00		-
+157	Mauritius	1020.00		-
+158	Tahiti	1015.00		-
+159	Malaysia	1009.00		-
+160	Indonesia	1005.00		-
+161	Gambia	1002.00		-
+162	Singapore	999.00		-
+163	Vanuatu	997.00		-
+164	Barbados	996.00		-
+165	Nepal	995.00		-
+166	Belize	994.00		-
+167	Fiji	992.00		-
+168	South Sudan	989.00		-
+169	Cambodia	988.00		-
+170	Moldova	985.00		-
+171	Papua New Guinea	984.00		-
+172	St. Lucia	975.00		-
+173	Grenada	973.00		-
+174	Bermuda	964.00		-
+175	Cuba	961.00		-
+176	Chad	956.00		-
+177	Dominica	954.00		-
+178	Guyana	954.00		-
+179	St. Vincent / Grenadines	954.00		-
+180	Puerto Rico	940.00		-
+181	Malta	939.00		-
+182	Macao	936.00		-
+183	Liechtenstein	922.00		-
+184	Bangladesh	922.00		-
+185	São Tomé e Príncipe	920.00		-
+186	Bhutan	916.00		-
+187	Mongolia	914.00		-
+188	Laos	912.00		-
+189	Aruba	909.00		-
+190	Guam	908.00		-
+191	Cook Islands	908.00		-
+192	American Samoa	908.00		-
+193	Brunei	904.00		-
+194	Seychelles	902.00		-
+195	Samoa	896.00		-
+196	Djibouti	896.00		-
+197	Montserrat	895.00		-
+198	Gibraltar	893.00		-
+199	US Virgin Islands	888.00		-
+200	Timor-Leste	879.00		-
+201	Sri Lanka	872.00		-
+202	Eritrea	868.00		-
+203	Tonga	868.00		-
+204	Somalia	868.00		-
+205	Pakistan	867.00		-
+206	Cayman Islands	867.00		-
+207	British Virgin Islands	867.00		-
+208	Turks and Caicos Islands	862.00		-
+209	Anguilla	857.00		-
+210	Bahamas	855.00		-
+211	San Marino	839.00		-

@@ -1,0 +1,17 @@
+1	 England	52	6,420	123
+2	 India	54	6,613	122
+3	 Australia	48	5,411	113
+4	 New Zealand	41	4,590	112
+5	 South Africa	46	5,030	109
+6	 Pakistan	48	4,615	96
+7	 Bangladesh	42	3,827	91
+8	 Sri Lanka	50	3,940	79
+9	 West Indies	46	3,496	76
+10	 Afghanistan	39	2,333	60
+11	 Ireland	27	1,274	47
+12	 Zimbabwe	33	1,542	47
+13	 Netherlands	6	222	37
+14	 Scotland	11	399	36
+15	 Nepal	8	152	19
+16	 UAE	15	144	10
+17	 Papua New Guinea	9	50	6
