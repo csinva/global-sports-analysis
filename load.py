@@ -15,10 +15,24 @@ def load_gdp():
 
     return gdp
 
+def load_gdp_per_capita():
+    gdp = pd.read_csv('data/gdp_per_capita/gdp_per_capita.csv', 
+                      error_bad_lines=False, skiprows=0, header=0)
+
+    gdp = gdp.rename(columns={'2017 [YR2017]': 'GDP_per_capita'}).rename(columns={'Country Name': 'Country'})
+    gdp = gdp.replace('..', np.nan)
+    gdp = gdp[gdp.index <= np.argmax(gdp['Country'].values == 'Zimbabwe')] # remove the countries below zimbabwe (they are aggregated)
+
+    gdp = gdp.astype({'GDP_per_capita': float})
+    # todo properly impute values for 2018
+
+    return gdp
+
 # soccer rankings from here: https://us.soccerway.com/teams/rankings/fifa/?ICID=TN_03_05_01
 def load_rankings_soccer():
     rankings = pd.read_csv('data/fifa_ranking.txt', sep='\t')[['#', 'Team']].rename(columns={'#': 'Rank_soccer', 'Team': 'Country'})
     rankings = rankings.astype({'Rank_soccer': float})
+    rankings = rankings.replace('China PR', 'China')
     return rankings
 
 # cricket rankings from here: https://www.icc-cricket.com/rankings/mens/team-rankings/odi
